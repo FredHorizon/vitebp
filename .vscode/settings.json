@@ -1,0 +1,4 @@
+{
+  // "window.zoomLevel": 0.1,
+  "prettier.configPath": "./.prettierrc.js"
+}

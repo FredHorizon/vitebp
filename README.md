@@ -1,11 +1,12 @@
-# Boilerplate ReactJS com Vite
+<h1 id="bp">Boilerplate ReactJScom Vite</h1>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/FredHorizon/vitebp?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/FredHorizon/vitebp?style=for-the-badge)
 
 <img src="https://vitejs.dev/logo.svg" alt="exemplo imagem" style="height: 300px; weight: 300px; width: 100%">
 
-> Esse repositório tem a finalidade de configurar um template para projetos feitos com ReactJS por meio do [Vite](https://vitejs.dev/)
+> Esse repositório tem a finalidade de configurar um template para projetos
+> feitos com ReactJS por meio do [Vite](https://vitejs.dev/)
 
 ## 💻 Uso
 
@@ -24,4 +25,4 @@ O projeto está com as seguintes configurações:
 - [x] ESLint
 - [x] Prettier
 
-[⬆ Voltar ao topo](#vitebp)<br>
+[⬆ Voltar ao topo](#bp)<br>
