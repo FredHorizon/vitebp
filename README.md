@@ -1,4 +1,4 @@
-<h1 id="bp">Boilerplate ReactJScom Vite</h1>
+<h1 id="bp">Boilerplate ReactJS com Vite</h1>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/FredHorizon/vitebp?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/FredHorizon/vitebp?style=for-the-badge)
