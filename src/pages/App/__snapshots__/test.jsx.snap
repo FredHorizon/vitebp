@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test 1`] = `
+Array [
+  .c0 {
+  background: purple;
+}
+
+<h1
+    class="c0"
+  >
+    <div>
+      <h1>
+        Test
+      </h1>
+    </div>
+  </h1>,
+  <h1>
+    Test
+  </h1>,
+]
+`;

@@ -7,7 +7,7 @@ import { MyThemeProvider } from './styles/MyThemeProvider';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <MyThemeProvider>
-      <App />
+      <App>Conteúdo do App no main</App>
     </MyThemeProvider>
   </React.StrictMode>,
 );
